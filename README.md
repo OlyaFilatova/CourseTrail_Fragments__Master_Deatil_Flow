@@ -1,4 +1,4 @@
-# using Fragments (Master Deatil Flow example)
+# using Fragments (Master Detail Flow example)
 
 App is very simple. 
 
